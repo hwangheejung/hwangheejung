@@ -26,10 +26,6 @@
 
 <h3 align="center">•••</h3>
 
-  <div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangheejung&langs_count=8)](https://github.com/hwangheejung/github-readme-stats)
-</div>
 
 <p align="center">
   <a href="mailto:dap07205@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dap07205@gmail.com"/></a>
